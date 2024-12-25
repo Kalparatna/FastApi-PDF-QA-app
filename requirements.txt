@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+PyPDF2
+langchain
+sqlalchemy
+redis
+fastapi-limiter
+websockets
+pytest
